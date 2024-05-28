@@ -9,19 +9,21 @@
 /* Begin PBXBuildFile section */
 		CDA642952C063BA50016587A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642942C063BA50016587A /* AppDelegate.swift */; };
 		CDA642972C063BA50016587A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642962C063BA50016587A /* SceneDelegate.swift */; };
-		CDA642992C063BA50016587A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642982C063BA50016587A /* ViewController.swift */; };
 		CDA6429E2C063BA60016587A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDA6429D2C063BA60016587A /* Assets.xcassets */; };
 		CDA642A12C063BA60016587A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDA6429F2C063BA60016587A /* LaunchScreen.storyboard */; };
+		CDA642A92C06472E0016587A /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642A82C06472E0016587A /* SearchVC.swift */; };
+		CDA642AB2C0647560016587A /* FavoritesListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642AA2C0647560016587A /* FavoritesListVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CDA642912C063BA50016587A /* GHFollowers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GHFollowers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDA642942C063BA50016587A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CDA642962C063BA50016587A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		CDA642982C063BA50016587A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CDA6429D2C063BA60016587A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CDA642A02C063BA60016587A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CDA642A22C063BA60016587A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDA642A82C06472E0016587A /* SearchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchVC.swift; sourceTree = "<group>"; };
+		CDA642AA2C0647560016587A /* FavoritesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +58,11 @@
 			children = (
 				CDA642942C063BA50016587A /* AppDelegate.swift */,
 				CDA642962C063BA50016587A /* SceneDelegate.swift */,
-				CDA642982C063BA50016587A /* ViewController.swift */,
 				CDA6429D2C063BA60016587A /* Assets.xcassets */,
 				CDA6429F2C063BA60016587A /* LaunchScreen.storyboard */,
 				CDA642A22C063BA60016587A /* Info.plist */,
+				CDA642A82C06472E0016587A /* SearchVC.swift */,
+				CDA642AA2C0647560016587A /* FavoritesListVC.swift */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
@@ -134,7 +137,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CDA642992C063BA50016587A /* ViewController.swift in Sources */,
+				CDA642AB2C0647560016587A /* FavoritesListVC.swift in Sources */,
+				CDA642A92C06472E0016587A /* SearchVC.swift in Sources */,
 				CDA642952C063BA50016587A /* AppDelegate.swift in Sources */,
 				CDA642972C063BA50016587A /* SceneDelegate.swift in Sources */,
 			);
