@@ -13,6 +13,7 @@
 		CDA642A12C063BA60016587A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDA6429F2C063BA60016587A /* LaunchScreen.storyboard */; };
 		CDA642A92C06472E0016587A /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642A82C06472E0016587A /* SearchVC.swift */; };
 		CDA642AB2C0647560016587A /* FavoritesListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642AA2C0647560016587A /* FavoritesListVC.swift */; };
+		CDA642AD2C0655950016587A /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642AC2C0655950016587A /* GFButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CDA642A22C063BA60016587A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDA642A82C06472E0016587A /* SearchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchVC.swift; sourceTree = "<group>"; };
 		CDA642AA2C0647560016587A /* FavoritesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListVC.swift; sourceTree = "<group>"; };
+		CDA642AC2C0655950016587A /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CDA642A22C063BA60016587A /* Info.plist */,
 				CDA642A82C06472E0016587A /* SearchVC.swift */,
 				CDA642AA2C0647560016587A /* FavoritesListVC.swift */,
+				CDA642AC2C0655950016587A /* GFButton.swift */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDA642AB2C0647560016587A /* FavoritesListVC.swift in Sources */,
+				CDA642AD2C0655950016587A /* GFButton.swift in Sources */,
 				CDA642A92C06472E0016587A /* SearchVC.swift in Sources */,
 				CDA642952C063BA50016587A /* AppDelegate.swift in Sources */,
 				CDA642972C063BA50016587A /* SceneDelegate.swift in Sources */,
