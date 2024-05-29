@@ -15,6 +15,7 @@
 		CDA642AB2C0647560016587A /* FavoritesListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642AA2C0647560016587A /* FavoritesListVC.swift */; };
 		CDA642AD2C0655950016587A /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642AC2C0655950016587A /* GFButton.swift */; };
 		CDA642AF2C065A2D0016587A /* GFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642AE2C065A2D0016587A /* GFTextField.swift */; };
+		CDA642B12C06E79B0016587A /* FollowerListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642B02C06E79B0016587A /* FollowerListVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		CDA642AA2C0647560016587A /* FavoritesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListVC.swift; sourceTree = "<group>"; };
 		CDA642AC2C0655950016587A /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
 		CDA642AE2C065A2D0016587A /* GFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTextField.swift; sourceTree = "<group>"; };
+		CDA642B02C06E79B0016587A /* FollowerListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerListVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				CDA642AA2C0647560016587A /* FavoritesListVC.swift */,
 				CDA642AC2C0655950016587A /* GFButton.swift */,
 				CDA642AE2C065A2D0016587A /* GFTextField.swift */,
+				CDA642B02C06E79B0016587A /* FollowerListVC.swift */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				CDA642AB2C0647560016587A /* FavoritesListVC.swift in Sources */,
 				CDA642AD2C0655950016587A /* GFButton.swift in Sources */,
 				CDA642A92C06472E0016587A /* SearchVC.swift in Sources */,
+				CDA642B12C06E79B0016587A /* FollowerListVC.swift in Sources */,
 				CDA642952C063BA50016587A /* AppDelegate.swift in Sources */,
 				CDA642972C063BA50016587A /* SceneDelegate.swift in Sources */,
 			);
