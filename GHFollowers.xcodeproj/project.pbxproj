@@ -17,6 +17,7 @@
 		CDA642AF2C065A2D0016587A /* GFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642AE2C065A2D0016587A /* GFTextField.swift */; };
 		CDA642B12C06E79B0016587A /* FollowerListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642B02C06E79B0016587A /* FollowerListVC.swift */; };
 		CDA642B32C0705370016587A /* GFTitleLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642B22C0705370016587A /* GFTitleLabel.swift */; };
+		CDA642B52C0707050016587A /* GFBodyLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA642B42C0707050016587A /* GFBodyLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		CDA642AE2C065A2D0016587A /* GFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTextField.swift; sourceTree = "<group>"; };
 		CDA642B02C06E79B0016587A /* FollowerListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerListVC.swift; sourceTree = "<group>"; };
 		CDA642B22C0705370016587A /* GFTitleLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTitleLabel.swift; sourceTree = "<group>"; };
+		CDA642B42C0707050016587A /* GFBodyLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFBodyLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				CDA642AE2C065A2D0016587A /* GFTextField.swift */,
 				CDA642B02C06E79B0016587A /* FollowerListVC.swift */,
 				CDA642B22C0705370016587A /* GFTitleLabel.swift */,
+				CDA642B42C0707050016587A /* GFBodyLabel.swift */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				CDA642AB2C0647560016587A /* FavoritesListVC.swift in Sources */,
 				CDA642AD2C0655950016587A /* GFButton.swift in Sources */,
 				CDA642A92C06472E0016587A /* SearchVC.swift in Sources */,
+				CDA642B52C0707050016587A /* GFBodyLabel.swift in Sources */,
 				CDA642B32C0705370016587A /* GFTitleLabel.swift in Sources */,
 				CDA642B12C06E79B0016587A /* FollowerListVC.swift in Sources */,
 				CDA642952C063BA50016587A /* AppDelegate.swift in Sources */,
