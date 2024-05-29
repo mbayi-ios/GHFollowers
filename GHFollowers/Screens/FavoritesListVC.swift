@@ -14,7 +14,4 @@ class FavoritesListVC: UIViewController {
 
         view.backgroundColor = .systemMint
     }
-    
-
-
 }
